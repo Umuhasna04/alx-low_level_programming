@@ -4,8 +4,8 @@
 
 /**
  * main - program that multiplies two positive numbers
- * argc: argument count
- * argv: argument vector
+ * @argc: argument count
+ * @argv: argument vector
  *
  * Return: always 0
  */
